@@ -1,4 +1,4 @@
 # hello-world
 
 Hello everybody!
-I have experince with MS Sql Server development (T-SQL) and have basic R skills.
+My programming skills relevant to Data Science include SQL/T-SQL (intermediate), Python (intermediate), and R (basic) skills.
